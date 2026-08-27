@@ -1,96 +1,91 @@
-ChEMBL_ID,Mechanism_Target,SMILES,MW_Da,LogP,TPSA,HBD,HBA,DeltaG_kcal_mol,RSI_Score,DARS_Score,Dermal_500Da,Dermal_LogP
-CHEMBL98062,Aim 1: Minor Groove Binder,c1ccc(-c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc7[nH]c(-c8ccccc8)nc7c6)nc5c4)nc3c2)cc1,502.58,7.98,86.04,3,3,-10.1,0.199,2.01,FAIL,CHECK
-CHEMBL529603,Aim 1: Minor Groove Binder,c1ccc(-c2ccc(-c3nc4ccccc4[nH]3)cc2)cc1,270.34,4.9,28.68,1,1,-8.8,0.37,3.26,PASS,PASS
-CHEMBL1951956,Aim 1: Minor Groove Binder,c1ccc(-c2ccc(-c3ccc(-c4nc5ccccc5[nH]4)cc3)cc2)cc1,346.43,6.56,28.68,1,1,-9.1,0.289,2.63,PASS,CHECK
-CHEMBL1672849,Aim 1: Minor Groove Binder,c1ccc(-c2ccc3[nH]c(-c4ccc5nc(-c6ccccc6)[nH]c5c4)nc3c2)cc1,386.46,6.44,57.36,2,2,-9.45,0.259,2.45,PASS,CHECK
-CHEMBL153535,Aim 1: Minor Groove Binder,c1ccc(-c2nc3ccccc3[nH]2)cc1,194.24,3.23,28.68,1,1,-8.5,0.515,4.38,PASS,PASS
-CHEMBL4173428,Aim 1: Minor Groove Binder,c1ccc2[nH]c(-c3ccc(-c4nc5ccccc5[nH]4)cc3)nc2c1,310.36,4.77,57.36,2,2,-9.15,0.322,2.95,PASS,PASS
-CHEMBL1413222,Aim 1: Minor Groove Binder,Cc1nc2cc(-c3nc4ccccc4[nH]3)ccc2[nH]1,248.29,3.41,57.36,2,2,-8.85,0.403,3.57,PASS,PASS
-CHEMBL3793039,Aim 1: Minor Groove Binder,c1cc(-c2nc3ccccc3[nH]2)cc(-c2nc3ccccc3[nH]2)c1,310.36,4.77,57.36,2,2,-9.15,0.322,2.95,PASS,PASS
-CHEMBL333953,Aim 1: Minor Groove Binder,c1ccc2[nH]c(-c3ccc4[nH]c(-c5ccc6[nH]cnc6c5)nc4c3)nc2c1,350.39,4.65,86.04,3,3,-9.5,0.285,2.71,PASS,PASS
-CHEMBL367729,Aim 1: Minor Groove Binder,N#Cc1ccc2[nH]c(-c3ccc4[nH]c(-c5ccccc5)nc4c3)nc2c1,335.37,4.64,81.15,2,3,-9.15,0.298,2.73,PASS,PASS
-CHEMBL98244,Aim 1: Minor Groove Binder,Cc1nc2cc(-c3nc4cc(-c5nc6cc(-c7ccccc7)ccc6[nH]5)ccc4[nH]3)ccc2[nH]1,440.51,6.62,86.04,3,3,-9.8,0.227,2.22,PASS,CHECK
-CHEMBL321366,Aim 1: Minor Groove Binder,COc1ccc(-c2nc3cc(-c4nc5cc(-c6nc7cc(-c8ccccc8)ccc7[nH]6)ccc5[nH]4)ccc3[nH]2)cc1,532.61,7.99,95.27,3,4,-10.05,0.188,1.89,FAIL,CHECK
-CHEMBL4952776,Aim 1: Minor Groove Binder,c1ccc2[nH]c(-c3ccc4[nH]c(C5CC5)nc4c3)nc2c1,274.33,3.98,57.36,2,2,-9.15,0.365,3.34,PASS,PASS
-CHEMBL1951976,Aim 1: Minor Groove Binder,Cc1ccc2[nH]c(-c3ccc(-c4ccc(-c5ccccc5)cc4)cc3)nc2c1,360.46,6.87,28.68,1,1,-9.1,0.277,2.52,PASS,CHECK
-CHEMBL163452,Aim 1: Minor Groove Binder,c1ccc(-c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc7nccnc7c6)nc5c4)nc3c2)cc1,438.49,6.38,83.14,2,4,-9.8,0.228,2.23,PASS,CHECK
-CHEMBL1330989,Aim 1: Minor Groove Binder,Nc1ccc2[nH]c(-c3ccccc3)nc2c1,209.25,2.81,54.7,2,2,-8.5,0.717,6.09,PASS,PASS
-CHEMBL1534413,Aim 1: Minor Groove Binder,Clc1ccc2[nH]c(-c3ccccc3)nc2c1,228.68,3.88,28.68,1,1,-8.5,0.437,3.71,PASS,PASS
-CHEMBL2396656,Aim 1: Minor Groove Binder,Oc1ccc2[nH]c(-c3ccccc3)nc2c1,210.24,2.94,48.91,2,2,-8.5,1.427,12.13,PASS,PASS
-CHEMBL4547449,Aim 1: Minor Groove Binder,Br.Oc1ccc2[nH]c(-c3ccccc3)nc2c1,291.15,3.51,48.91,2,2,-8.5,1.03,8.76,PASS,PASS
-CHEMBL605817,Aim 1: Minor Groove Binder,c1ccc(-c2nc3cc4nc(-c5ccccc5)[nH]c4cc3[nH]2)cc1,310.36,4.77,57.36,2,2,-9.15,0.322,2.95,PASS,PASS
-CHEMBL174576,Aim 1: Minor Groove Binder,NC(=O)c1ccc2[nH]c(-c3ccc4[nH]c(-c5ccccc5)nc4c3)nc2c1,353.39,3.87,100.45,3,3,-9.1,0.283,2.58,PASS,PASS
-CHEMBL1672845,Aim 1: Minor Groove Binder,Cc1nc2ccc(-c3nc4cc(-c5ccccc5)ccc4[nH]3)cc2[nH]1,324.39,5.08,57.36,2,2,-9.15,0.308,2.82,PASS,CHECK
-CHEMBL5282816,Aim 1: Minor Groove Binder,c1ccc2[nH]c(-c3ccc4n[se]nc4c3)nc2c1,299.19,2.23,54.46,1,3,-8.85,0.334,2.96,PASS,PASS
-CHEMBL2283280,Aim 1: Minor Groove Binder,Cc1ccc(-c2nc3ccccc3[nH]2)cc1,208.26,3.54,28.68,1,1,-8.5,0.48,4.08,PASS,PASS
-CHEMBL1596095,Aim 1: Minor Groove Binder,Fc1ccc(-c2nc3ccccc3[nH]2)cc1,212.23,3.37,28.68,1,1,-8.5,0.471,4.0,PASS,PASS
-CHEMBL43184,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2ccccc12,194.24,2.97,38.91,1,2,-8.55,0.772,6.6,PASS,PASS
-CHEMBL1308088,Aim 1: Intercalator/Shield,Cl.Nc1c2ccccc2nc2ccccc12.O,248.71,2.57,70.41,1,2,-8.55,0.603,5.16,PASS,PASS
-CHEMBL1330022,Aim 1: Intercalator/Shield,Cl.Nc1c2ccccc2nc2ccccc12,230.7,3.39,38.91,1,2,-8.55,0.65,5.56,PASS,PASS
-CHEMBL548175,Aim 1: Intercalator/Shield,Cl.Nc1ccc2c(N)c3ccccc3nc2c1,245.71,2.97,64.93,2,3,-8.55,1.221,10.44,PASS,PASS
-CHEMBL147630,Aim 1: Intercalator/Shield,Nc1ccc2c(N)c3ccccc3nc2c1,209.25,2.55,64.93,2,3,-8.55,1.434,12.26,PASS,PASS
-CHEMBL148238,Aim 1: Intercalator/Shield,Cc1ccc2c(N)c3ccccc3nc2c1,208.26,3.28,38.91,1,2,-8.55,0.72,6.16,PASS,PASS
-CHEMBL357429,Aim 1: Intercalator/Shield,Cc1ccc2nc3ccccc3c(N)c2c1,208.26,3.28,38.91,1,2,-8.55,0.72,6.16,PASS,PASS
-CHEMBL549012,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2ccc(-c3ccccc3)cc12,270.34,4.64,38.91,1,2,-8.85,0.555,4.91,PASS,PASS
-CHEMBL146512,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2cc(Cl)ccc12,228.68,3.62,38.91,1,2,-8.55,0.656,5.61,PASS,PASS
-CHEMBL147657,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2ccc(Cl)cc12,228.68,3.62,38.91,1,2,-8.55,0.656,5.61,PASS,PASS
-CHEMBL171045,Aim 1: Intercalator/Shield,Nc1cccc2nc3ccccc3c(N)c12,209.25,2.55,64.93,2,3,-8.55,1.434,12.26,PASS,PASS
-CHEMBL343190,Aim 1: Intercalator/Shield,Cc1cccc2c(N)c3ccccc3nc12,208.26,3.28,38.91,1,2,-8.55,0.72,6.16,PASS,PASS
-CHEMBL148785,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2c(Cl)cccc12,228.68,3.62,38.91,1,2,-8.55,0.656,5.61,PASS,PASS
-CHEMBL1741616,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2c(O)cccc12,210.24,2.68,59.14,2,3,-8.55,2.14,18.3,PASS,PASS
-CHEMBL578723,Aim 1: Intercalator/Shield,COc1ccc2nc3ccccc3c(N)c2c1,224.26,2.98,48.14,1,3,-8.5,0.669,5.69,PASS,PASS
-CHEMBL581508,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2cc(C(F)(F)F)ccc12,262.23,3.99,38.91,1,2,-8.55,0.572,4.89,PASS,PASS
-CHEMBL3290780,Aim 1: Intercalator/Shield,Nc1nc2ccccc2c2ccccc12,194.24,2.97,38.91,1,2,-8.55,0.772,6.6,PASS,PASS
-CHEMBL2180144,Aim 1: Intercalator/Shield,Clc1c2ccccc2nc2ccccc12,213.67,4.04,12.89,0,1,-8.55,0.468,4.0,PASS,PASS
-CHEMBL1883643,Aim 1: Intercalator/Shield,Cc1c2ccccc2nc2ccccc12,193.25,3.7,12.89,0,1,-8.55,0.517,4.42,PASS,PASS
-CHEMBL528704,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2cc([N+](=O)[O-])ccc12,239.23,2.88,82.05,1,4,-8.5,0.627,5.33,PASS,PASS
-CHEMBL531708,Aim 1: Intercalator/Shield,Cl.Nc1c2ccccc2nc2cc([N+](=O)[O-])ccc12,275.69,3.3,82.05,1,4,-8.5,0.544,4.62,PASS,PASS
-CHEMBL268354,Aim 1: Intercalator/Shield,Nc1nc(N)c2ccccc2n1,160.18,0.79,77.82,2,4,-8.2,1.873,15.36,PASS,CHECK
-CHEMBL1719169,Aim 1: Intercalator/Shield,Nc1ccc(-c2c3ccccc3nc3ccccc23)cc1,270.34,4.64,38.91,1,2,-8.85,0.555,4.91,PASS,PASS
-CHEMBL1971204,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2nccnc12,196.21,1.76,64.69,1,4,-8.55,0.764,6.53,PASS,PASS
-CHEMBL1967768,Aim 1: Intercalator/Shield,Nc1c2ccccc2nc2c1ccc1ncccc12,245.28,3.52,51.8,1,3,-8.9,0.612,5.45,PASS,PASS
-CHEMBL151,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,286.24,2.28,111.13,4,6,-6.05,4.192,25.36,PASS,PASS
-CHEMBL1779470,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(O)c(-c3cc(-c4cc(=O)c5c(O)cc(O)cc5o4)ccc3O)c2)oc2cc(O)cc(O)c12,538.46,5.13,181.8,6,10,-6.55,3.343,21.9,FAIL,CHECK
-CHEMBL28,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,270.24,2.58,90.9,3,5,-6.05,3.33,20.15,PASS,PASS
-CHEMBL183745,Aim 2: Flavonoid Scavenger,COc1cc(O)c2c(=O)cc(-c3ccc(O)c(O)c3)oc2c1,300.27,2.59,100.13,3,6,-6.0,2.997,17.98,PASS,PASS
-CHEMBL5418159,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(F)cc(O)c12,288.23,2.72,90.9,3,5,-6.05,3.123,18.89,PASS,PASS
-CHEMBL5398631,Aim 2: Flavonoid Scavenger,O=C(O)c1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O,314.25,2.27,128.2,4,6,-6.0,2.864,17.18,PASS,PASS
-CHEMBL247484,Aim 2: Flavonoid Scavenger,O=c1cc(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,302.24,1.99,131.36,5,7,-6.05,4.963,30.03,PASS,PASS
-CHEMBL1821732,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(F)c(F)c2)oc2cc(O)cc(O)c12,290.22,3.15,70.67,2,4,-6.05,2.067,12.51,PASS,PASS
-CHEMBL4087126,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(-c3ccccc3)cc2)oc2cc(O)cc(O)c12,330.34,4.54,70.67,2,4,-6.2,1.816,11.26,PASS,PASS
-CHEMBL167154,Aim 2: Flavonoid Scavenger,Nc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1,269.26,2.45,96.69,3,5,-6.05,2.785,16.85,PASS,PASS
-CHEMBL182262,Aim 2: Flavonoid Scavenger,Cc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1,268.27,3.18,70.67,2,4,-6.05,2.237,13.53,PASS,PASS
-CHEMBL457821,Aim 2: Flavonoid Scavenger,O=c1cc(-c2cccc(O)c2)oc2cc(O)cc(O)c12,270.24,2.58,90.9,3,5,-6.05,3.33,20.15,PASS,PASS
-CHEMBL264037,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(Cl)cc2)oc2cc(O)cc(O)c12,288.69,3.52,70.67,2,4,-6.05,2.078,12.57,PASS,PASS
-CHEMBL486407,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(F)cc2)oc2cc(O)cc(O)c12,272.23,3.01,70.67,2,4,-6.05,2.204,13.33,PASS,PASS
-CHEMBL471181,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(Br)cc2)oc2cc(O)cc(O)c12,333.14,3.63,70.67,2,4,-6.05,1.801,10.9,PASS,PASS
-CHEMBL1822222,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(I)cc2)oc2cc(O)cc(O)c12,380.14,3.48,70.67,2,4,-6.05,1.578,9.55,PASS,PASS
-CHEMBL1990497,Aim 2: Flavonoid Scavenger,O=c1cc(-c2cc(O)c(O)c(-c3c(O)cc4oc(-c5ccc(O)c(O)c5)cc(=O)c4c3O)c2)oc2cc(O)cc(O)c12,570.46,4.55,222.26,8,12,-6.55,4.207,27.56,FAIL,PASS
-CHEMBL4847220,Aim 2: Flavonoid Scavenger,O=c1cc(-c2cccc(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)c(O)c5)oc34)c2)oc2cc(O)cc(O)c12,538.46,5.13,181.8,6,10,-6.55,3.343,21.9,FAIL,CHECK
-CHEMBL90568,Aim 2: Flavonoid Scavenger,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,300.27,2.59,100.13,3,6,-6.0,2.997,17.98,PASS,PASS
-CHEMBL1277701,Aim 2: Flavonoid Scavenger,COc1cc(O)cc2oc(-c3ccc(O)c(O)c3)cc(=O)c12,300.27,2.59,100.13,3,6,-6.0,2.997,17.98,PASS,PASS
-CHEMBL214321,Aim 2: Flavonoid Scavenger,COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O,300.27,2.59,100.13,3,6,-6.0,2.997,17.98,PASS,PASS
-CHEMBL3896909,Aim 2: Flavonoid Scavenger,Oc1cc(O)c2c(=S)cc(-c3ccc(O)c(O)c3)oc2c1,302.31,3.65,94.06,4,6,-6.05,3.969,24.01,PASS,PASS
-CHEMBL243677,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccc(O)c(O)c2)oc2cccc(O)c12,270.24,2.58,90.9,3,5,-6.05,3.33,20.15,PASS,PASS
-CHEMBL117,Aim 2: Flavonoid Scavenger,O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12,254.24,2.87,70.67,2,4,-6.05,2.36,14.28,PASS,PASS
-CHEMBL5431952,Aim 2: Flavonoid Scavenger,O=c1cc(-c2cccc(-c3ccc(O)cc3)c2)oc2cc(O)cc(O)c12,346.34,4.24,90.9,3,5,-6.2,2.599,16.11,PASS,PASS
-CHEMBL117625,Aim 2: Nitroxide/TEMPOL,CC1(C)CC(O)CC(C)(C)N1,157.26,1.29,32.26,2,2,-5.7,0.636,3.63,PASS,PASS
-CHEMBL1594935,Aim 2: Aminothiol/Disulfide,Cl.Cl.NCCSSCCN,225.21,1.13,52.04,2,4,-5.25,0.444,2.33,PASS,PASS
-CHEMBL1256388,Aim 2: Aminothiol/Disulfide,Cl.NCCSSCCN,188.75,0.71,52.04,2,4,-5.25,0.53,2.78,PASS,CHECK
-CHEMBL61350,Aim 2: Aminothiol/Disulfide,NCCSSCCN,152.29,0.29,52.04,2,4,-5.25,0.657,3.45,PASS,CHECK
-CHEMBL2009031,Aim 2: Aminothiol/Disulfide,NCCSSC/C=C\CSSCCN,270.51,2.22,52.04,2,6,-5.0,0.37,1.85,PASS,PASS
-CHEMBL1979625,Aim 2: Aminothiol/Disulfide,Cl.NCCSSC/C=C\CSSCCN,306.98,2.64,52.04,2,6,-5.0,0.326,1.63,PASS,PASS
-CHEMBL2009493,Aim 2: Aminothiol/Disulfide,NCCSSCc1ccccc1CSSCCN,320.57,3.37,52.04,2,6,-5.2,0.312,1.62,PASS,PASS
-CHEMBL2006835,Aim 2: Aminothiol/Disulfide,Cl.NCCSSCc1ccccc1CSSCCN,357.04,3.79,52.04,2,6,-5.2,0.28,1.46,PASS,PASS
-CHEMBL3215831,Aim 2: Aminothiol/Disulfide,Cl.Cl.NCCSSCCNC(=O)CCC(=O)NCCSSCCNC(=O)CCC(=O)NCCSSCCN,693.9,1.92,168.44,6,12,-4.25,0.144,0.61,FAIL,PASS
-CHEMBL1851695,Aim 2: Aminothiol/Disulfide,NCCSSCCNC(=O)CCC(=O)NCCSSCCNC(=O)CCC(=O)NCCSSCCN,620.98,1.07,168.44,6,12,-4.25,0.161,0.68,FAIL,PASS
-CHEMBL3216486,Aim 2: Aminothiol/Disulfide,Cl.Cl.NCCSSCCNC(=O)CCCC(=O)NCCSSCCNC(=O)CCCC(=O)NCCSSCCN,721.96,2.7,168.44,6,12,-4.15,0.139,0.58,FAIL,PASS
-CHEMBL1851860,Aim 2: Aminothiol/Disulfide,NCCSSCCNC(=O)CCCC(=O)NCCSSCCNC(=O)CCCC(=O)NCCSSCCN,649.03,1.85,168.44,6,12,-4.15,0.154,0.64,FAIL,PASS
-CHEMBL511458,Aim 2: Flavonoid Scavenger,Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O,318.24,1.69,151.59,6,8,-6.05,5.656,34.22,PASS,PASS
-CHEMBL469752,Aim 2: Flavonoid Scavenger,COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1,316.27,2.29,120.36,4,7,-6.0,3.794,22.76,PASS,PASS
-CHEMBL459583,Aim 2: Polyphenol Scavenger,COc1cc(/C=C/C(=O)c2cc(O)c(O)c(O)c2)cc(OC)c1O,332.31,2.42,116.45,4,7,-5.65,3.611,20.4,PASS,PASS
-CHEMBL1683055,Aim 1: Minor Groove Binder,Nc1nc2ccc(-c3ccc4nc5ccccc5nc4c3)cc2[nH]1,311.35,3.91,80.48,2,4,-9.2,0.482,4.43,PASS,PASS
-CHEMBL214612,Aim 2: Aminothiol/Disulfide,NCCSSc1ccccc1,185.32,2.39,26.02,1,3,-5.5,0.54,2.97,PASS,PASS
-CHEMBL176543,Aim 1: Intercalator/Shield,CCN(CC)CCNc1c2ccccc2nc2ccccc12,293.41,4.14,28.16,1,3,-8.25,0.341,2.81,PASS,PASS
-CHEMBL1962789,Aim 1: Minor Groove Binder,Cc1ccc(-c2nc3ccc(-c4ccc5nc(=O)[nH]nc5c4)cc3[nH]2)nc1,354.37,3.23,100.21,2,5,-9.15,0.282,2.58,PASS,PASS
-CHEMBL1927181,Aim 3: Dual-Action Lead,Cc1ccc(C(=O)Nc2nc3ccc(-c4ccc5nc6ccccc6nc5c4)cc3[nH]2)cc1,429.48,5.89,83.56,2,4,-8.65,0.233,2.02,PASS,CHECK
+ChEMBL_ID,Functional_Mechanism,SMILES,MW_Da,LogP,TPSA,HBD,HBA,DeltaG_kcal_mol,RSI_Score,DARS_Score,Dermal_500Da,Dermal_LogP
+CHEMBL511458,Aim 2: ROS Scavenger Specialist,Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O,318.24,1.69,151.59,6,8,-6.7,5.656,37.9,PASS,PASS
+CHEMBL247484,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2cc(O)c(O)c(O)c2)oc2cc(O)cc(O)c12,302.24,1.99,131.36,5,7,-6.7,4.963,33.25,PASS,PASS
+CHEMBL151,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(O)cc(O)c12,286.24,2.28,111.13,4,6,-6.7,4.192,28.09,PASS,PASS
+CHEMBL3896909,Aim 2: ROS Scavenger Specialist,Oc1cc(O)c2c(=S)cc(-c3ccc(O)c(O)c3)oc2c1,302.31,3.65,94.06,4,6,-6.7,3.969,26.59,PASS,PASS
+CHEMBL4847220,Aim 3: Dual-Action Lead,O=c1cc(-c2cccc(-c3c(O)cc(O)c4c(=O)cc(-c5ccc(O)c(O)c5)oc34)c2)oc2cc(O)cc(O)c12,538.46,5.13,181.8,6,10,-7.9,3.343,26.41,FAIL,CHECK
+CHEMBL1779470,Aim 3: Dual-Action Lead,O=c1cc(-c2ccc(O)c(-c3cc(-c4cc(=O)c5c(O)cc(O)cc5o4)ccc3O)c2)oc2cc(O)cc(O)c12,538.46,5.13,181.8,6,10,-7.9,3.343,26.41,FAIL,CHECK
+CHEMBL469752,Aim 2: ROS Scavenger Specialist,COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1,316.27,2.29,120.36,4,7,-6.7,3.794,25.42,PASS,PASS
+CHEMBL459583,Aim 2: ROS Scavenger Specialist,COc1cc(/C=C/C(=O)c2cc(O)c(O)c(O)c2)cc(OC)c1O,332.31,2.42,116.45,4,7,-6.3,3.611,22.75,PASS,PASS
+CHEMBL243677,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2ccc(O)c(O)c2)oc2cccc(O)c12,270.24,2.58,90.9,3,5,-6.7,3.33,22.31,PASS,PASS
+CHEMBL457821,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2cccc(O)c2)oc2cc(O)cc(O)c12,270.24,2.58,90.9,3,5,-6.7,3.33,22.31,PASS,PASS
+CHEMBL28,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2ccc(O)cc2)oc2cc(O)cc(O)c12,270.24,2.58,90.9,3,5,-6.7,3.33,22.31,PASS,PASS
+CHEMBL5418159,Aim 2: ROS Scavenger Specialist,O=c1cc(-c2ccc(O)c(O)c2)oc2cc(F)cc(O)c12,288.23,2.72,90.9,3,5,-6.7,3.123,20.92,PASS,PASS
+CHEMBL183745,Aim 2: ROS Scavenger Specialist,COc1cc(O)c2c(=O)cc(-c3ccc(O)c(O)c3)oc2c1,300.27,2.59,100.13,3,6,-6.7,2.997,20.08,PASS,PASS
+CHEMBL90568,Aim 2: ROS Scavenger Specialist,COc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1O,300.27,2.59,100.13,3,6,-6.7,2.997,20.08,PASS,PASS
+CHEMBL1277701,Aim 2: ROS Scavenger Specialist,COc1cc(O)cc2oc(-c3ccc(O)c(O)c3)cc(=O)c12,300.27,2.59,100.13,3,6,-6.7,2.997,20.08,PASS,PASS
+CHEMBL214321,Aim 2: ROS Scavenger Specialist,COc1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O,300.27,2.59,100.13,3,6,-6.7,2.997,20.08,PASS,PASS
+CHEMBL5398631,Aim 2: ROS Scavenger Specialist,O=C(O)c1cc(-c2cc(=O)c3c(O)cc(O)cc3o2)ccc1O,314.25,2.27,128.2,4,6,-6.7,2.864,19.19,PASS,PASS
+CHEMBL167154,Aim 2: ROS Scavenger Specialist,Nc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1,269.26,2.45,96.69,3,5,-6.7,2.785,18.66,PASS,PASS
+CHEMBL5431952,Aim 3: Dual-Action Lead,O=c1cc(-c2cccc(-c3ccc(O)cc3)c2)oc2cc(O)cc(O)c12,346.34,4.24,90.9,3,5,-7.1,2.599,18.45,PASS,PASS
+CHEMBL117,Moderate / Basal Profile,O=c1cc(-c2ccccc2)oc2cc(O)cc(O)c12,254.24,2.87,70.67,2,4,-6.7,2.36,15.81,PASS,PASS
+CHEMBL182262,Moderate / Basal Profile,Cc1ccc(-c2cc(=O)c3c(O)cc(O)cc3o2)cc1,268.27,3.18,70.67,2,4,-6.7,2.237,14.99,PASS,PASS
+CHEMBL486407,Moderate / Basal Profile,O=c1cc(-c2ccc(F)cc2)oc2cc(O)cc(O)c12,272.23,3.01,70.67,2,4,-6.7,2.204,14.77,PASS,PASS
+CHEMBL1741616,Moderate / Basal Profile,Nc1c2ccccc2nc2c(O)cccc12,210.24,2.68,59.14,2,3,-6.7,2.14,14.34,PASS,PASS
+CHEMBL264037,Moderate / Basal Profile,O=c1cc(-c2ccc(Cl)cc2)oc2cc(O)cc(O)c12,288.69,3.52,70.67,2,4,-6.7,2.078,13.92,PASS,PASS
+CHEMBL1821732,Moderate / Basal Profile,O=c1cc(-c2ccc(F)c(F)c2)oc2cc(O)cc(O)c12,290.22,3.15,70.67,2,4,-6.7,2.067,13.85,PASS,PASS
+CHEMBL4087126,Aim 3: Dual-Action Lead,O=c1cc(-c2ccc(-c3ccccc3)cc2)oc2cc(O)cc(O)c12,330.34,4.54,70.67,2,4,-7.1,1.816,12.89,PASS,PASS
+CHEMBL471181,Moderate / Basal Profile,O=c1cc(-c2ccc(Br)cc2)oc2cc(O)cc(O)c12,333.14,3.63,70.67,2,4,-6.7,1.801,12.07,PASS,PASS
+CHEMBL268354,Moderate / Basal Profile,Nc1nc(N)c2ccccc2n1,160.18,0.79,77.82,2,4,-6.3,1.873,11.8,PASS,CHECK
+CHEMBL1822222,Moderate / Basal Profile,O=c1cc(-c2ccc(I)cc2)oc2cc(O)cc(O)c12,380.14,3.48,70.67,2,4,-6.7,1.578,10.57,PASS,PASS
+CHEMBL171045,Moderate / Basal Profile,Nc1cccc2nc3ccccc3c(N)c12,209.25,2.55,64.93,2,3,-6.7,1.434,9.61,PASS,PASS
+CHEMBL147630,Moderate / Basal Profile,Nc1ccc2c(N)c3ccccc3nc2c1,209.25,2.55,64.93,2,3,-6.7,1.434,9.61,PASS,PASS
+CHEMBL2396656,Moderate / Basal Profile,Oc1ccc2[nH]c(-c3ccccc3)nc2c1,210.24,2.94,48.91,2,2,-6.7,1.427,9.56,PASS,PASS
+CHEMBL548175,Moderate / Basal Profile,Cl.Nc1ccc2c(N)c3ccccc3nc2c1,245.71,2.97,64.93,2,3,-6.7,1.221,8.18,PASS,PASS
+CHEMBL4547449,Moderate / Basal Profile,Br.Oc1ccc2[nH]c(-c3ccccc3)nc2c1,291.15,3.51,48.91,2,2,-6.7,1.03,6.9,PASS,PASS
+CHEMBL3290780,Moderate / Basal Profile,Nc1nc2ccccc2c2ccccc12,194.24,2.97,38.91,1,2,-6.7,0.772,5.17,PASS,PASS
+CHEMBL43184,Moderate / Basal Profile,Nc1c2ccccc2nc2ccccc12,194.24,2.97,38.91,1,2,-6.7,0.772,5.17,PASS,PASS
+CHEMBL1971204,Moderate / Basal Profile,Nc1c2ccccc2nc2nccnc12,196.21,1.76,64.69,1,4,-6.7,0.764,5.12,PASS,PASS
+CHEMBL343190,Moderate / Basal Profile,Cc1cccc2c(N)c3ccccc3nc12,208.26,3.28,38.91,1,2,-6.7,0.72,4.82,PASS,PASS
+CHEMBL357429,Moderate / Basal Profile,Cc1ccc2nc3ccccc3c(N)c2c1,208.26,3.28,38.91,1,2,-6.7,0.72,4.82,PASS,PASS
+CHEMBL148238,Moderate / Basal Profile,Cc1ccc2c(N)c3ccccc3nc2c1,208.26,3.28,38.91,1,2,-6.7,0.72,4.82,PASS,PASS
+CHEMBL1330989,Moderate / Basal Profile,Nc1ccc2[nH]c(-c3ccccc3)nc2c1,209.25,2.81,54.7,2,2,-6.7,0.717,4.8,PASS,PASS
+CHEMBL578723,Moderate / Basal Profile,COc1ccc2nc3ccccc3c(N)c2c1,224.26,2.98,48.14,1,3,-6.7,0.669,4.48,PASS,PASS
+CHEMBL148785,Moderate / Basal Profile,Nc1c2ccccc2nc2c(Cl)cccc12,228.68,3.62,38.91,1,2,-6.7,0.656,4.4,PASS,PASS
+CHEMBL146512,Moderate / Basal Profile,Nc1c2ccccc2nc2cc(Cl)ccc12,228.68,3.62,38.91,1,2,-6.7,0.656,4.4,PASS,PASS
+CHEMBL147657,Moderate / Basal Profile,Nc1c2ccccc2nc2ccc(Cl)cc12,228.68,3.62,38.91,1,2,-6.7,0.656,4.4,PASS,PASS
+CHEMBL1330022,Moderate / Basal Profile,Cl.Nc1c2ccccc2nc2ccccc12,230.7,3.39,38.91,1,2,-6.7,0.65,4.36,PASS,PASS
+CHEMBL1967768,Moderate / Basal Profile,Nc1c2ccccc2nc2c1ccc1ncccc12,245.28,3.52,51.8,1,3,-7.1,0.612,4.35,PASS,PASS
+CHEMBL528704,Moderate / Basal Profile,Nc1c2ccccc2nc2cc([N+](=O)[O-])ccc12,239.23,2.88,82.05,1,4,-6.7,0.627,4.2,PASS,PASS
+CHEMBL1308088,Moderate / Basal Profile,Cl.Nc1c2ccccc2nc2ccccc12.O,248.71,2.57,70.41,1,2,-6.7,0.603,4.04,PASS,PASS
+CHEMBL1719169,Moderate / Basal Profile,Nc1ccc(-c2c3ccccc3nc3ccccc23)cc1,270.34,4.64,38.91,1,2,-7.1,0.555,3.94,PASS,PASS
+CHEMBL549012,Moderate / Basal Profile,Nc1c2ccccc2nc2ccc(-c3ccccc3)cc12,270.34,4.64,38.91,1,2,-7.1,0.555,3.94,PASS,PASS
+CHEMBL581508,Moderate / Basal Profile,Nc1c2ccccc2nc2cc(C(F)(F)F)ccc12,262.23,3.99,38.91,1,2,-6.7,0.572,3.83,PASS,PASS
+CHEMBL117625,Moderate / Basal Profile,CC1(C)CC(O)CC(C)(C)N1,157.26,1.29,32.26,2,2,-5.9,0.636,3.75,PASS,PASS
+CHEMBL531708,Moderate / Basal Profile,Cl.Nc1c2ccccc2nc2cc([N+](=O)[O-])ccc12,275.69,3.3,82.05,1,4,-6.7,0.544,3.64,PASS,PASS
+CHEMBL1683055,Aim 1: Minor Groove Specialist,Nc1nc2ccc(-c3ccc4nc5ccccc5nc4c3)cc2[nH]1,311.35,3.91,80.48,2,4,-7.5,0.482,3.61,PASS,PASS
+CHEMBL61350,Moderate / Basal Profile,NCCSSCCN,152.29,0.29,52.04,2,4,-5.5,0.657,3.61,PASS,CHECK
+CHEMBL1883643,Moderate / Basal Profile,Cc1c2ccccc2nc2ccccc12,193.25,3.7,12.89,0,1,-6.7,0.517,3.46,PASS,PASS
+CHEMBL153535,Moderate / Basal Profile,c1ccc(-c2nc3ccccc3[nH]2)cc1,194.24,3.23,28.68,1,1,-6.7,0.515,3.45,PASS,PASS
+CHEMBL2283280,Moderate / Basal Profile,Cc1ccc(-c2nc3ccccc3[nH]2)cc1,208.26,3.54,28.68,1,1,-6.7,0.48,3.22,PASS,PASS
+CHEMBL214612,Moderate / Basal Profile,NCCSSc1ccccc1,185.32,2.39,26.02,1,3,-5.9,0.54,3.19,PASS,PASS
+CHEMBL1596095,Moderate / Basal Profile,Fc1ccc(-c2nc3ccccc3[nH]2)cc1,212.23,3.37,28.68,1,1,-6.7,0.471,3.16,PASS,PASS
+CHEMBL2180144,Moderate / Basal Profile,Clc1c2ccccc2nc2ccccc12,213.67,4.04,12.89,0,1,-6.7,0.468,3.14,PASS,PASS
+CHEMBL1534413,Moderate / Basal Profile,Clc1ccc2[nH]c(-c3ccccc3)nc2c1,228.68,3.88,28.68,1,1,-6.7,0.437,2.93,PASS,PASS
+CHEMBL1256388,Moderate / Basal Profile,Cl.NCCSSCCN,188.75,0.71,52.04,2,4,-5.5,0.53,2.92,PASS,CHECK
+CHEMBL1413222,Moderate / Basal Profile,Cc1nc2cc(-c3nc4ccccc4[nH]3)ccc2[nH]1,248.29,3.41,57.36,2,2,-7.1,0.403,2.86,PASS,PASS
+CHEMBL4952776,Aim 1: Minor Groove Specialist,c1ccc2[nH]c(-c3ccc4[nH]c(C5CC5)nc4c3)nc2c1,274.33,3.98,57.36,2,2,-7.5,0.365,2.74,PASS,PASS
+CHEMBL529603,Moderate / Basal Profile,c1ccc(-c2ccc(-c3nc4ccccc4[nH]3)cc2)cc1,270.34,4.9,28.68,1,1,-7.1,0.37,2.63,PASS,PASS
+CHEMBL1594935,Moderate / Basal Profile,Cl.Cl.NCCSSCCN,225.21,1.13,52.04,2,4,-5.5,0.444,2.44,PASS,PASS
+CHEMBL605817,Aim 1: Minor Groove Specialist,c1ccc(-c2nc3cc4nc(-c5ccccc5)[nH]c4cc3[nH]2)cc1,310.36,4.77,57.36,2,2,-7.5,0.322,2.42,PASS,PASS
+CHEMBL3793039,Aim 1: Minor Groove Specialist,c1cc(-c2nc3ccccc3[nH]2)cc(-c2nc3ccccc3[nH]2)c1,310.36,4.77,57.36,2,2,-7.5,0.322,2.42,PASS,PASS
+CHEMBL4173428,Aim 1: Minor Groove Specialist,c1ccc2[nH]c(-c3ccc(-c4nc5ccccc5[nH]4)cc3)nc2c1,310.36,4.77,57.36,2,2,-7.5,0.322,2.42,PASS,PASS
+CHEMBL5282816,Moderate / Basal Profile,c1ccc2[nH]c(-c3ccc4n[se]nc4c3)nc2c1,299.19,2.23,54.46,1,3,-7.1,0.334,2.37,PASS,PASS
+CHEMBL1672845,Aim 1: Minor Groove Specialist,Cc1nc2ccc(-c3nc4cc(-c5ccccc5)ccc4[nH]3)cc2[nH]1,324.39,5.08,57.36,2,2,-7.5,0.308,2.31,PASS,CHECK
+CHEMBL176543,Moderate / Basal Profile,CCN(CC)CCNc1c2ccccc2nc2ccccc12,293.41,4.14,28.16,1,3,-6.7,0.341,2.28,PASS,PASS
+CHEMBL333953,Aim 1: Minor Groove Specialist,c1ccc2[nH]c(-c3ccc4[nH]c(-c5ccc6[nH]cnc6c5)nc4c3)nc2c1,350.39,4.65,86.04,3,3,-7.9,0.285,2.25,PASS,PASS
+CHEMBL367729,Aim 1: Minor Groove Specialist,N#Cc1ccc2[nH]c(-c3ccc4[nH]c(-c5ccccc5)nc4c3)nc2c1,335.37,4.64,81.15,2,3,-7.5,0.298,2.23,PASS,PASS
+CHEMBL1951956,Aim 1: Minor Groove Specialist,c1ccc(-c2ccc(-c3ccc(-c4nc5ccccc5[nH]4)cc3)cc2)cc1,346.43,6.56,28.68,1,1,-7.5,0.289,2.17,PASS,CHECK
+CHEMBL174576,Aim 1: Minor Groove Specialist,NC(=O)c1ccc2[nH]c(-c3ccc4[nH]c(-c5ccccc5)nc4c3)nc2c1,353.39,3.87,100.45,3,3,-7.5,0.283,2.12,PASS,PASS
+CHEMBL1962789,Aim 1: Minor Groove Specialist,Cc1ccc(-c2nc3ccc(-c4ccc5nc(=O)[nH]nc5c4)cc3[nH]2)nc1,354.37,3.23,100.21,2,5,-7.5,0.282,2.11,PASS,PASS
+CHEMBL1951976,Aim 1: Minor Groove Specialist,Cc1ccc2[nH]c(-c3ccc(-c4ccc(-c5ccccc5)cc4)cc3)nc2c1,360.46,6.87,28.68,1,1,-7.5,0.277,2.08,PASS,CHECK
+CHEMBL1672849,Aim 1: Minor Groove Specialist,c1ccc(-c2ccc3[nH]c(-c4ccc5nc(-c6ccccc6)[nH]c5c4)nc3c2)cc1,386.46,6.44,57.36,2,2,-7.9,0.259,2.05,PASS,CHECK
+CHEMBL2009031,Moderate / Basal Profile,NCCSSC/C=C\CSSCCN,270.51,2.22,52.04,2,6,-5.5,0.37,2.04,PASS,PASS
+CHEMBL163452,Aim 1: Minor Groove Specialist,c1ccc(-c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc7nccnc7c6)nc5c4)nc3c2)cc1,438.49,6.38,83.14,2,4,-8.3,0.228,1.89,PASS,CHECK
+CHEMBL98244,Aim 1: Minor Groove Specialist,Cc1nc2cc(-c3nc4cc(-c5nc6cc(-c7ccccc7)ccc6[nH]5)ccc4[nH]3)ccc2[nH]1,440.51,6.62,86.04,3,3,-8.3,0.227,1.88,PASS,CHECK
+CHEMBL2009493,Moderate / Basal Profile,NCCSSCc1ccccc1CSSCCN,320.57,3.37,52.04,2,6,-5.9,0.312,1.84,PASS,PASS
+CHEMBL1927181,Aim 1: Minor Groove Specialist,Cc1ccc(C(=O)Nc2nc3ccc(-c4ccc5nc6ccccc6nc5c4)cc3[nH]2)cc1,429.48,5.89,83.56,2,4,-7.9,0.233,1.84,PASS,CHECK
+CHEMBL1979625,Moderate / Basal Profile,Cl.NCCSSC/C=C\CSSCCN,306.98,2.64,52.04,2,6,-5.5,0.326,1.79,PASS,PASS
+CHEMBL98062,Aim 1: Minor Groove Specialist,c1ccc(-c2ccc3[nH]c(-c4ccc5[nH]c(-c6ccc7[nH]c(-c8ccccc8)nc7c6)nc5c4)nc3c2)cc1,502.58,7.98,86.04,3,3,-8.7,0.199,1.73,FAIL,CHECK
+CHEMBL2006835,Moderate / Basal Profile,Cl.NCCSSCc1ccccc1CSSCCN,357.04,3.79,52.04,2,6,-5.9,0.28,1.65,PASS,PASS
+CHEMBL321366,Aim 1: Minor Groove Specialist,COc1ccc(-c2nc3cc(-c4nc5cc(-c6nc7cc(-c8ccccc8)ccc7[nH]6)ccc5[nH]4)ccc3[nH]2)cc1,532.61,7.99,95.27,3,4,-8.7,0.188,1.64,FAIL,CHECK

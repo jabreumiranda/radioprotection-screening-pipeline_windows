@@ -3,20 +3,26 @@
 An automated chemoinformatics and structure-based virtual screening framework designed to identify, evaluate, and prioritize drug-like small molecules for **topical radioprotection**.
 
 ## 1. Multi-Objective Screening Architecture
+- **Aim 1 (Delta G_bind):** Real molecular docking free energy (kcal/mol) in the B-DNA minor groove (PDB ID: 1BNA) via AutoDock Vina.
+- **Aim 2 (RSI):** Radical Scavenging Index, quantifying thermodynamic density of redox centers normalized by MW.
+- **Aim 3 (DARS):** Dual-Action Radioprotection Score: DARS = |Delta G_bind| * RSI.
 
-- **Aim 1 (Delta G_bind):** Predicted binding free energy (kcal/mol) in the minor groove of B-DNA (PDB ID: 1BNA).
-- **Aim 2 (RSI):** Radical Scavenging Index (thermodynamic redox density normalized by MW).
-- **Aim 3 (DARS):** Dual-Action Radioprotection Score (|Delta G_bind| * RSI).
+## 2. Quantitative Screening Summary (90 Compounds Evaluated)
+- **Aim 3 (Dual-Action Leads):** 4 candidates
+- **Aim 1 (DNA Minor Groove Specialists):** 18 candidates
+- **Aim 2 (ROS Scavengers):** 16 candidates
+- **Basal / Moderate Profile:** 52 candidates
 
-## 2. Benchmark Results (Full Curated Set)
-
-| Compound ID | Target Mechanism | MW (Da) | Delta G_bind (kcal/mol) | RSI Score | DARS Score | Dermal Filter (500 Da) |
+### Top 10 Prioritized Radioprotective Hits
+| ChEMBL ID | Functional Class | MW (Da) | Delta G_bind (kcal/mol) | RSI | DARS | Dermal 500Da |
 | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
-| CHEMBL511458 | Aim 2: Polyphenol Scavenger | 318.24 | -6.20 | 5.656 | 35.07 | PASS |
-| CHEMBL469752 | Aim 2: Polyphenol Scavenger | 316.27 | -6.20 | 3.794 | 23.52 | PASS |
-| CHEMBL459583 | Aim 2: Polyphenol Scavenger | 332.31 | -6.20 | 3.611 | 22.39 | PASS |
-| CHEMBL1683055 | Aim 1: Minor Groove Binder | 311.35 | -8.71 | 0.482 | 4.20 | PASS |
-| CHEMBL214612 | Aim 2: Thiol/Disulfide | 185.32 | -6.20 | 0.540 | 3.35 | PASS |
-| CHEMBL176543 | Aim 1: Intercalator/Shield | 293.41 | -8.10 | 0.341 | 2.76 | PASS |
-| CHEMBL1962789 | Aim 1: Minor Groove Binder | 354.37 | -8.50 | 0.282 | 2.40 | PASS |
-| CHEMBL1927181 | Aim 3: Dual-Action Lead | 429.48 | -8.68 | 0.233 | 2.02 | PASS |
+| `CHEMBL511458` | Aim 2: ROS Scavenger Specialist | 318.24 | -6.7 | 5.656 | **37.9** | PASS |
+| `CHEMBL247484` | Aim 2: ROS Scavenger Specialist | 302.24 | -6.7 | 4.963 | **33.25** | PASS |
+| `CHEMBL151` | Aim 2: ROS Scavenger Specialist | 286.24 | -6.7 | 4.192 | **28.09** | PASS |
+| `CHEMBL3896909` | Aim 2: ROS Scavenger Specialist | 302.31 | -6.7 | 3.969 | **26.59** | PASS |
+| `CHEMBL4847220` | Aim 3: Dual-Action Lead | 538.46 | -7.9 | 3.343 | **26.41** | FAIL |
+| `CHEMBL1779470` | Aim 3: Dual-Action Lead | 538.46 | -7.9 | 3.343 | **26.41** | FAIL |
+| `CHEMBL469752` | Aim 2: ROS Scavenger Specialist | 316.27 | -6.7 | 3.794 | **25.42** | PASS |
+| `CHEMBL459583` | Aim 2: ROS Scavenger Specialist | 332.31 | -6.3 | 3.611 | **22.75** | PASS |
+| `CHEMBL243677` | Aim 2: ROS Scavenger Specialist | 270.24 | -6.7 | 3.33 | **22.31** | PASS |
+| `CHEMBL457821` | Aim 2: ROS Scavenger Specialist | 270.24 | -6.7 | 3.33 | **22.31** | PASS |
