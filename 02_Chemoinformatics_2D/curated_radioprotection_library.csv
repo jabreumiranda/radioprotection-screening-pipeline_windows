@@ -1,0 +1,7 @@
+ChEMBL_ID,SMILES,Target_Mechanism,MW_Da,LogP,TPSA,HBD,HBA,Tanimoto_Aim1_Ref,Tanimoto_Aim2_Ref,Dermal_Rule_500Da,Dermal_LogP_Window
+CHEMBL1927181,Cc1ccc(C(=O)Nc2nc3ccc(-c4ccc5nc6ccccc6nc5c4)cc3[nH]2)cc1,Dual-Action Candidate (Aim 3),429.48,5.89,83.56,2,4,0.16,0.062,PASS,CHECK
+CHEMBL459583,COc1cc(cc(OC)c1O)/C=C/C(=O)c1cc(O)c(O)c(O)c1,Polyphenol ROS Scavenger (Aim 2),332.31,2.42,116.45,4,7,0.103,0.056,PASS,PASS
+CHEMBL511458,Oc1cc(O)c2c(c1)oc(-c1cc(O)c(O)c(O)c1)c(O)c2=O,Polyphenol ROS Scavenger (Aim 2),318.24,1.69,151.59,6,8,0.104,0.057,PASS,PASS
+CHEMBL469752,COc1cc(O)c2c(=O)c(O)c(-c3ccc(O)c(O)c3)oc2c1,Polyphenol ROS Scavenger (Aim 2),316.27,2.29,120.36,4,7,0.139,0.052,PASS,PASS
+CHEMBL176543,CCN(CC)CCNc1c2ccccc2nc2ccccc12,Groove Intercalator/Shield (Aim 1),293.41,4.14,28.16,1,3,0.104,0.057,PASS,PASS
+CHEMBL214612,NCCSSc1ccccc1,Thiol/Disulfide Scavenger (Aim 2),185.32,2.39,26.02,1,3,0.085,0.15,PASS,PASS
