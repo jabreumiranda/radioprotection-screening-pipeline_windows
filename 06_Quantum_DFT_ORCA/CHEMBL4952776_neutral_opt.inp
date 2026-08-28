@@ -1,6 +1,5 @@
 ! B3LYP def2-SVP def2/J D3BJ Opt Freq CPCM(Water)
 %maxcore 2000
-%pal nprocs 4 end
 
 * xyz 0 1
 C      -6.6199     -0.1305     -0.6080

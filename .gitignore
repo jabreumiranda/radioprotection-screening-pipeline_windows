@@ -1,5 +1,17 @@
+﻿# Binarios e executaveis
+tools/
+*.exe
+
+# Arquivos intermediarios pesados do ORCA
+*.gbw
+*.ges
+*.prop
+*.tmp
+*.densities*
+*.cis
+*.densities
+
+# Python cache
 __pycache__/
 *.pyc
-*.raw.pdb
-*.tmp
-.DS_Store
+.ipynb_checkpoints/
